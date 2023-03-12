@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Egor",
+        "Surname": "Letov",
+        "Phone number": "8-750-282-45-21",
+        "Comment": "Moya oborona"
+    },
+    {
+        "Name": "Gendalf",
+        "Surname": "Grey",
+        "Phone number": "111",
+        "Comment": "Wizard"
+    },
+    {
+        "Name": "Neo",
+        "Surname": "Anderson",
+        "Phone number": "8110",
+        "Comment": "Matrix"
+    },
+    {
+        "Name": "Alisa",
+        "Surname": "Yandexovna",
+        "Phone number": "8-800-250-96-39",
+        "Comment": "there is everything"
+    },
+    {
+        "Name": "Ozzy",
+        "Surname": "Osborne",
+        "Phone number": "666",
+        "Comment": "Like a bat"
+    },
+    {
+        "Name": "Harry",
+        "Surname": "Potter",
+        "Phone number": "33-55-33-22",
+        "Comment": "The boy who lived"
+    },
+    {
+        "Name": "Jack",
+        "Surname": "Sparrow",
+        "Phone number": "23-5234-623",
+        "Comment": "Capitan Jack Sparrow"
+    },
+    {
+        "Name": "Gleb",
+        "Surname": "Zheglov",
+        "Phone number": "02",
+        "Comment": "Ya skazal, Gorbatiy!"
+    }
+]
